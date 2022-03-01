@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d612386b.chunk.css",
+    "main.js": "./static/js/main.fcec8ae7.chunk.js",
+    "main.js.map": "./static/js/main.fcec8ae7.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.62dda6d1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.62dda6d1.js.map",
+    "static/js/2.621a4a10.chunk.js": "./static/js/2.621a4a10.chunk.js",
+    "static/js/2.621a4a10.chunk.js.map": "./static/js/2.621a4a10.chunk.js.map",
+    "static/js/3.a172cbcf.chunk.js": "./static/js/3.a172cbcf.chunk.js",
+    "static/js/3.a172cbcf.chunk.js.map": "./static/js/3.a172cbcf.chunk.js.map",
+    "static/js/4.e12b934e.chunk.js": "./static/js/4.e12b934e.chunk.js",
+    "static/js/4.e12b934e.chunk.js.map": "./static/js/4.e12b934e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.d612386b.chunk.css.map": "./static/css/main.d612386b.chunk.css.map",
+    "static/js/2.621a4a10.chunk.js.LICENSE.txt": "./static/js/2.621a4a10.chunk.js.LICENSE.txt",
+    "static/js/3.a172cbcf.chunk.js.LICENSE.txt": "./static/js/3.a172cbcf.chunk.js.LICENSE.txt",
+    "static/media/laser1.b17a6cd2.mp3": "./static/media/laser1.b17a6cd2.mp3",
+    "static/media/logo.c1ccbc7f.svg": "./static/media/logo.c1ccbc7f.svg",
+    "static/media/music.45a268ab.mp3": "./static/media/music.45a268ab.mp3",
+    "static/media/phit.95a24661.mp3": "./static/media/phit.95a24661.mp3",
+    "static/media/virusorange-1-250-min.e390ef9e.png": "./static/media/virusorange-1-250-min.e390ef9e.png",
+    "static/media/virusorange-2-250-min.52c6da16.png": "./static/media/virusorange-2-250-min.52c6da16.png",
+    "static/media/virusred-1-250-min.a67f86ef.png": "./static/media/virusred-1-250-min.a67f86ef.png",
+    "static/media/virusred-2-250-min.7b4fa043.png": "./static/media/virusred-2-250-min.7b4fa043.png",
+    "static/media/virusunknown-250-min.70469fdd.png": "./static/media/virusunknown-250-min.70469fdd.png",
+    "static/media/virusyellow-1-250-min.82c6230b.png": "./static/media/virusyellow-1-250-min.82c6230b.png",
+    "static/media/virusyellow-2-250-min.482459b0.png": "./static/media/virusyellow-2-250-min.482459b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62dda6d1.js",
+    "static/js/2.621a4a10.chunk.js",
+    "static/css/main.d612386b.chunk.css",
+    "static/js/main.fcec8ae7.chunk.js"
+  ]
+}
